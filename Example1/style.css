@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.testStyle1 {
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 3px;
+}
+
+.buttonNext1 {
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.buttonBack1 {
+    padding: 5px;
+}
+
+.buttonStyle1 {
+    padding-top: 10px;
+}
